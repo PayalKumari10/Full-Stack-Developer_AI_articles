@@ -1,5 +1,5 @@
 ---
-title: "From Full Stack Development to AI: Understanding Python Loops"
+title: "From Full Stack Development to AI : Understanding Python Loops"
 seoTitle: "Master Python Loops: From Full Stack to AI"
 seoDescription: "Discover how loops in Python simplify AI coding for full stack developers, with practical examples and important concepts explained clearly"
 datePublished: Fri Dec 26 2025 10:23:29 GMT+0000 (Coordinated Universal Time)
