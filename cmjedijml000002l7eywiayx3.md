@@ -226,4 +226,6 @@ I’m strengthening my foundation so I can build smarter, more meaningful applic
 This is just the start.  
 More chapters, more learning, and more real projects coming soon.
 
+### **Documenting my Full Stack → AI journey, step by step.**
+
 ### **By** [**Payal Kumari**](https://www.linkedin.com/in/payalkumari10/)
