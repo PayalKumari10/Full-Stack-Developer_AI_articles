@@ -358,4 +358,6 @@ Loops are simple, but they carry a lot of power. Every training step, batch proc
 
 Build one concept at a time. Practice small examples. Strong foundations always make advanced topics less scary.
 
+### **Documenting my Full Stack → AI journey, step by step.**
+
 ## **By** [**Payal Kumari**](https://www.linkedin.com/in/payalkumari10/)
