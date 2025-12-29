@@ -219,4 +219,6 @@ Strong basics make advanced topics easier later.
 
 More chapters coming soon.
 
+### **Documenting my Full Stack → AI journey, step by step.**
+
 ## **By** [**Payal Kumari**](https://www.linkedin.com/in/payalkumari10/)
