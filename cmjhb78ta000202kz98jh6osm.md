@@ -320,4 +320,6 @@ It is about understanding how data behaves and why Python feels so natural once 
 As a Full Stack Developer moving into AI, this foundation matters a lot.  
 More learning and more chapters coming next.
 
+### **Documenting my Full Stack → AI journey, step by step.**
+
 ## **By** [**Payal Kumari**](https://www.linkedin.com/in/payalkumari10/)
