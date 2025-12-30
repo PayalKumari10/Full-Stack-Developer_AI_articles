@@ -7,7 +7,7 @@ cuid: cmjqo5jk9000002l5cmn55scj
 slug: from-full-stack-to-ai-functions-in-python
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1766982907753/74413566-e426-46c5-8992-b8d326f6ab82.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1766983062059/559f7229-8f67-4504-a895-501cadbf273e.jpeg
-tags: payalkumari11, payallearnsai
+tags: ai, technology, python, engineering, community, developer, full-stack, hashnode, articles, technical-writing-1, build-in-public, buildinpublic, payalkumari11, fullstackai, payallearnsai
 
 ---
 
