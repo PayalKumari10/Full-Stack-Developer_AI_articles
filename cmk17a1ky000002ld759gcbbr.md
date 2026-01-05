@@ -349,6 +349,82 @@ if __name__ == "__main__":
 Value allows controlled shared state across processes.  
 Locks are still needed.
 
+## Concurrency vs Parallelism
+
+### What is Concurrency?
+
+Concurrency means **dealing with more than one task at the same time**, but not necessarily running them at the exact same moment.
+
+The program switches between tasks.  
+When one task is waiting, another one runs.
+
+Example:  
+Your program downloads a file and waits for a response.  
+While waiting, it can handle another task.
+
+Concurrency is about **managing tasks efficiently**.
+
+### What is Parallelism?
+
+Parallelism means **running multiple tasks at the same time** on different CPU cores.
+
+Tasks truly execute together.
+
+Example:  
+Two CPU cores crunching numbers at the same time.
+
+Parallelism is about **doing work faster using hardware**.
+
+### Simple way to remember
+
+Concurrency: tasks take turns  
+Parallelism: tasks run together
+
+In Python:  
+• Concurrency is commonly done with threads  
+• Parallelism is achieved with multiprocessing
+
+## Thread vs Process
+
+### What is a Thread?
+
+A thread is a lightweight unit of execution inside a process.
+
+Threads:  
+• Share the same memory  
+• Start quickly  
+• Are good for I/O tasks like network calls and file operations  
+• Are affected by the GIL in Python
+
+If one thread changes shared data, others see it immediately.
+
+### What is a Process?
+
+A process is an independent program with its own memory space.
+
+Processes:  
+• Do not share memory by default  
+• Use more system resources  
+• Can run on multiple CPU cores  
+• Are not limited by the GIL
+
+They are ideal for CPU heavy tasks like data processing or model training.
+
+### Simple way to remember
+
+Thread: workers in the same room  
+Process: workers in separate rooms
+
+Threads share tools.  
+Processes bring their own tools.
+
+### Why this matters for AI learners
+
+If you use threads for CPU heavy work, your code will not get faster due to the GIL.  
+If you use processes, your code can actually scale across cores.
+
+Knowing when to use what saves time, confusion, and performance issues later.
+
 ---
 
 ## Closing thoughts
