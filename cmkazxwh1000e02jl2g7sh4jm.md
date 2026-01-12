@@ -28,7 +28,7 @@ Before you can call OpenAI models, you need an API key. This key is how OpenAI k
 1. Create an OpenAI account :- OpenAI platform  
     [https://openai.com/](https://openai.com/)
     
-2. [Generate an API](https://openai.com/) key from the dashboard
+2. Generate an API key from the dashboard
     
 3. Store the key securely, usually as an environment variable
     
@@ -85,7 +85,7 @@ Gemini is Google’s family of generative AI models. Like OpenAI models, Gemini 
 Google AI Studio (Gemini)  
 [https://aistudio.google.com/](https://aistudio.google.com/)
 
-### [Basic Python example](https://aistudio.google.com/)
+### Basic Python example
 
 ```python
 from google import genai
@@ -119,7 +119,7 @@ Some teams already use the OpenAI SDK in their projects. Gemini now supports Ope
 Gemini OpenAI compatible API docs  
 [https://ai.google.dev/gemini-api/docs/openai](https://ai.google.dev/gemini-api/docs/openai)
 
-### [Python example using OpenAI style syntax](https://ai.google.dev/gemini-api/docs/openai)
+### Python example using OpenAI style syntax
 
 ```python
 from openai import OpenAI
