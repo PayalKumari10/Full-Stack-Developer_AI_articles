@@ -359,4 +359,6 @@ If you understand APIs, contracts, and edge cases, you already have the mindset 
 Start small. Test prompts. Break them. Fix them.  
 Strong foundations always beat shortcuts.
 
+## **Documenting my Full Stack → AI journey, step by step.**
+
 ## **By** [**Payal Kumari**](https://www.linkedin.com/in/payalkumari10/)
