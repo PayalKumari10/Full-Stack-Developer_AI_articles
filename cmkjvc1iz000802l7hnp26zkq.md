@@ -22,8 +22,6 @@ A prompt is just text. But how you structure that text decides whether the model
 
 Think of it like calling a backend API. If you send bad input, you get bad output.
 
----
-
 ## 1\. Prompt Fundamentals: Encoding Instructions for LLMs
 
 ### What it is
@@ -73,8 +71,6 @@ def add(a, b):
 
 The system prompt restricts behavior. The model follows it and answers only coding questions.
 
----
-
 ## 2\. Prompting Types: Zero Shot, One Shot, Few Shot
 
 ### Zero Shot Prompting
@@ -98,8 +94,6 @@ prompt = "Translate the word hello to Hindi"
 #### Explanation
 
 The model already knows enough to answer without examples.
-
----
 
 ### One Shot Prompting
 
@@ -127,8 +121,6 @@ messages = [
 
 The model learns the pattern from one example and applies it.
 
----
-
 ### Few Shot Prompting
 
 #### What it is
@@ -155,8 +147,6 @@ def multiply(a, b):
 #### Explanation
 
 More examples reduce ambiguity and improve consistency.
-
----
 
 ## 3\. One Shot Prompting for Deterministic Inference
 
@@ -186,8 +176,6 @@ messages = [
 ### Explanation
 
 Clear rules plus one format expectation lead to stable output.
-
----
 
 ## 4\. Few Shot Prompting for Contextual Generalization
 
@@ -224,8 +212,6 @@ A: {"code": "def add(a,b): return a+b", "isCoding": true}
 
 The model generalizes from examples and keeps structure intact.
 
----
-
 ## 5\. Structured Outputs with Few Shot Prompting
 
 ### What it is
@@ -256,8 +242,6 @@ user = "Write a JS function to add two numbers"
 
 This is useful when integrating with frontend or backend systems.
 
----
-
 ## 6\. Chain of Thought for Reasoning
 
 ### What it is
@@ -284,8 +268,6 @@ Return JSON:
 
 You see how the model reasons. This helps in debugging logic.
 
----
-
 ## 7\. Auto Chain of Thought
 
 ### What it is
@@ -310,8 +292,6 @@ Then multiply.
 ### Explanation
 
 The model decides when reasoning is needed.
-
----
 
 ## 8\. Persona Based Prompting
 
