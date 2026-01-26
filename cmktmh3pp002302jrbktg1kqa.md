@@ -254,6 +254,8 @@ In simple terms:
 
 Both approaches are valid. The choice depends on your use case.
 
+---
+
 ### Closing Thoughts
 
 Moving into AI does not require learning everything at once.  
@@ -261,8 +263,6 @@ If you already understand APIs, environments, and services, you are closer than 
 
 Start small. Load a model. Run it. Observe the output.  
 Strong foundations are built step by step.
-
----
 
 ## 𝐃𝐨𝐜𝐮𝐦𝐞𝐧𝐭𝐢𝐧𝐠 𝐦𝐲 𝐅𝐮𝐥𝐥 𝐒𝐭𝐚𝐜𝐤 𝐭𝐨 𝐀𝐈 𝐣𝐨𝐮𝐫𝐧𝐞𝐲, 𝐬𝐭𝐞𝐩 𝐛𝐲 𝐬𝐭𝐞𝐩.
 
