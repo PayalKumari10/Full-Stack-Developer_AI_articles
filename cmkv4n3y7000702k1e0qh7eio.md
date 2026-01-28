@@ -7,7 +7,7 @@ cuid: cmkv4n3y7000702k1e0qh7eio
 slug: from-full-stack-to-ai-building-ai-agents-and-agentic-workflow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1769429160703/1880d7d2-a0e0-42bd-923b-1cd55c61f62e.png
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1769429366361/bad14d13-d31c-453f-8a02-7b58917f9e57.png
-tags: ai, technology, python, developers, developer, full-stack, hashnode, articles, technical-writing-1, build-in-public, technology-trends, aiagents, payalkumari11, fullstackai, payallearnsai
+tags: ai, technology, python, developers, developer, hashnode, articles, technical-writing-1, build-in-public, technology-trends, rag, aiagents, payalkumari11, fullstackai, payallearnsai
 
 ---
 
